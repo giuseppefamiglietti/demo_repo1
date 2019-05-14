@@ -19,4 +19,5 @@ sugar
 flour
 rice
 milk
+rice2
 
